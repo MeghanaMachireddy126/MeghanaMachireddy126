@@ -9,7 +9,7 @@
 
 💬 Ask me about **DSA, Web Development, REST APIs, and AI-ML Projects**
 
-📫 How to reach me: **machireddymeghanareddy@gmail.com**
+📫 How to reach me: **meghanamachireddy10@gmail.com**
 
 📄 Wanna know more? Lets's Connect LinkedIn (https://www.linkedin.com/in/meghanamachireddy1605/)
 
