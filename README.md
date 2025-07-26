@@ -21,7 +21,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/meghanamachireddy1605/)
 - [GitHub](https://github.com/MeghanaMachireddy126)
-- [Portfolio Website](https://order-fv.vercel.app/)
+- [Portfolio Website](https://portfolio-machireddy-meghanas-projects.vercel.app/)
 
 ---
 
